@@ -1,4 +1,4 @@
 pandas
 numpy
-dateutil
+python-dateutil
 plotly
